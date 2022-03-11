@@ -1,0 +1,1 @@
+//https://teachablemachine.withgoogle.com/models/LVLN_85lX/
