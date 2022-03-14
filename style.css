@@ -2,3 +2,36 @@ img{
     width: 300px;
     height: 300px;
 }
+body{
+    font-family: 'Permanent Marker', cursive;
+    background-color: dimgrey;
+}
+.header_div{
+    background-color: cadetblue;
+    
+    color: rgb(255, 243, 80);
+}
+.header_div p{
+    font-family: fantasy;
+    color: crimson;
+    letter-spacing: 2px;
+    font-weight: bold;
+    font-size: 20px !important;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 125px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.copyright_footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: darkturquoise;
+    text-align: center;
+    line-height: 3;
+    font-size:large;
+    font-weight: bold;
+    text-shadow: 5px 5px 5px white;
+}
